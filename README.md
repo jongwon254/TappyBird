@@ -7,7 +7,8 @@ A mobile game for Android based on Unity.
 
 <img width="700" alt="bird" src="https://user-images.githubusercontent.com/36485235/164885455-a7d49929-d999-4301-be12-276de8ca41fb.png">
 <img width="700" alt="bird2" src="https://user-images.githubusercontent.com/36485235/164885458-c2795d2f-10f7-4672-95a6-65c9242b6799.png">
-<img width="700" alt="tappybird" src="https://user-images.githubusercontent.com/36485235/164885282-cc0af389-8587-49c7-a004-a8b40c7e2b42.png">
+<img width="700" alt="bird3" src="https://user-images.githubusercontent.com/36485235/164885496-107cebb3-4e16-4796-bc5e-3c71d86c8f14.png">
+
 
 
 ## More Info
