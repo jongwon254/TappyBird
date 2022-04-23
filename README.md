@@ -1,3 +1,5 @@
+![birdsmall](https://user-images.githubusercontent.com/36485235/164885679-759ab302-eaa1-498c-8516-59674ac8f32e.png)
+
 # TappyBird
 A mobile game for Android based on Unity.
 
